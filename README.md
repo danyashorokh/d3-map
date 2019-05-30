@@ -1,3 +1,8 @@
+## Requirements
+
+- python or browser mozilla for run local files
+
+## Запуск
 
 #### Перейти в папку проекта
 ```
